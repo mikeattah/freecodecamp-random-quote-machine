@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#quote-box {
+  margin: 0 auto;
+  background-color: white;
+  padding: 45px;
+  border-radius: 5px;
+}
+
+#text {
+  color: #282c34;
+}
+
+#author {
+  color: #282c34;
+  text-align: right;
+}
+
+#clickables {
+  display: flex;
+  flex-direction: horizontal;
+  justify-content: space-between;
+}
+
+#share-links {
+  display: flex;
+  flex-direction: horizontal;
+  justify-content: space-between;
+  width: 22%;
+}
+
+#tweet-quote,
+#tumblr-quote {
+  display: block;
+  border-radius: 5px;
+  padding: 2px;
+  color: white;
+  background-color: #282c34;
+  width: 44%;
+}
+
+#new-quote {
+  display: block;
+  padding: 2px;
+  width: 24%;
+  color: white;
+  background-color: #282c34;
+  border-radius: 5px;
+}
+
+#developer {
+  font-family: sans-serif;
+  font-size: small;
+  margin-top: 15px;
+  color: white;
+}
+
+a:hover,
+button:hover {
+  cursor: pointer;
+  opacity: 0.9;
+}
