@@ -1,5 +1,5 @@
 import "./App.css";
-import { quotesArray } from "./store/quotes";
+import { quotesArray } from "./assets/quotes";
 
 function App() {
   return (

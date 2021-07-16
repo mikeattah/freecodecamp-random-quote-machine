@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-import { quotesArray } from "./store/quotes";
+import { quotesArray } from "./assets/quotes";
 console.log(quotesArray.length);
 
 ReactDOM.render(
