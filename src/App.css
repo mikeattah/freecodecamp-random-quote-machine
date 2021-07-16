@@ -18,6 +18,7 @@
   background-color: white;
   padding: 45px;
   border-radius: 5px;
+  width: 35%;
 }
 
 #text {
@@ -55,9 +56,12 @@
 #new-quote {
   display: block;
   padding: 2px;
-  width: 24%;
+  width: 20%;
   color: white;
   background-color: #282c34;
+  border: 0;
+  background: none;
+  box-shadow: none;
   border-radius: 5px;
 }
 
