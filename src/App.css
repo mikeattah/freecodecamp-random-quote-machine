@@ -82,3 +82,13 @@ button:hover {
   cursor: pointer;
   opacity: 0.9;
 }
+
+@media screen and (max-width: 900px) {
+  #share-links {
+    width: 35%;
+  }
+
+  #new-quote {
+    width: 35%;
+  }
+}
