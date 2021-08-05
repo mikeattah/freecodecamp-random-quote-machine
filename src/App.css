@@ -53,6 +53,11 @@
   width: 44%;
 }
 
+.fa-twitter,
+.fa-tumblr {
+  color: white;
+}
+
 #new-quote {
   display: block;
   padding: 2px;
