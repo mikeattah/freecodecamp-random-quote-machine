@@ -1,4 +1,4 @@
-# FCC Markdown Previewer Project
+# FCC Random Quote Machine Project
 
 ## Front End Development Libraries Certification
 
