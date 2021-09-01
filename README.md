@@ -1,11 +1,13 @@
-# Random Quote Machine
+# FCC Markdown Previewer Project
+
+## Front End Development Libraries Certification
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-A project for Free Code Camp Front End Development Libraries Certification
+You can view it on Code Pen: [https://codepen.io/mikeattah/pen/OJmmQGX](https://codepen.io/mikeattah/pen/OJmmQGX).
 
 The UI randomly displays inspirational quotes when the "New Quote" Button is clicked.
 
-In addition, it provides links to share quote on twitter and/or tumblr.
+In addition, it provides links to share quote on twitter and tumblr.
 
-It contains over 200 inspirational quotes!!!
+It contains 200 inspirational quotes!!!
