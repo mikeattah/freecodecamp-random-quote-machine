@@ -29,7 +29,7 @@ class App extends React.Component {
   handleTweetLink(quote, author) {
     return (
       "https://twitter.com/intent/tweet" +
-      "?hashtags=quotes&related=mikeattah_&text=" +
+      "?hashtags=quotes&related=miikeattah&text=" +
       quote +
       " -" +
       author
