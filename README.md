@@ -12,6 +12,10 @@ In addition, it provides links to share quote on twitter and tumblr.
 
 It contains 200 inspirational quotes!!!
 
+## Screenshot
+
+![Screenshot](./screenshot.png)
+
 ## Key Tools and Methods Used
 
 - Git/Github
